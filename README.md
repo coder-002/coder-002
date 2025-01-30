@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-002&label=Profile%20views&color=0e75b6&style=flat" alt="coder-002" /> </p>
 
-- 💬 Ask me about **react**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
